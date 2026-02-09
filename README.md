@@ -19,11 +19,13 @@ This project demonstrates:
 ---
 
 ## Repository Structure
+'''
 AltaFornoPizzaShop/
 ├─ AltaFornoPizzaShop.sln
 ├─ Forms/                      
 ├─ ProjectDescriptionAndRequirements.docx/pdf
 └─ Project Demonstration.mp4
+'''
 
 ## Getting Started
 
