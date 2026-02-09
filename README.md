@@ -21,16 +21,16 @@ This project demonstrates:
 ## Repository Structure
 ```
 AltaFornoPizzaShop/
-├── AltaFornoPizzaShop.sln
+├── PizzaShopManagementSystem.sln
 ├── Forms/
-├── ProjectDescriptionAndRequirements.docx/pdf
+├── Project Description & Requirements.docx
 └── Project Demonstration.mp4
 ```
 
 ## Getting Started
 
-1. Open `AltaFornoPizzaShop.sln` in **Visual Studio 2019+**  
-2. Set up the database `AltaFornoPizzaShopDB` as described in **ProjectDescriptionAndRequirements**  
+1. Open `PizzaShopManagementSystem.sln` in **Visual Studio 2019+**  
+2. Set up the database `AltaFornoPizzaShopDB` as described in **Project Description & Requirements**  
 3. Restore NuGet packages (`iText7`, `System.Data.SqlClient`)  
 4. Build and run the project  
 
